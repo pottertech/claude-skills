@@ -1,10 +1,10 @@
 # Cowork Skills
 
-15 skills that turn Claude Cowork into a personal operating system for any business operator. Built around what Cowork does best: persistent file workspaces, scheduled tasks, connectors, and rich visual outputs (HTML pages, dashboards, slide decks, PDFs).
+16 skills that turn Claude Cowork into a personal operating system for any business operator. Built around what Cowork does best: persistent file workspaces, scheduled tasks, connectors, and rich visual outputs (HTML pages, dashboards, slide decks, PDFs).
 
-These are designed to work without setup — install them, point Cowork at a folder, and trigger by saying the skill name or a related phrase.
+Most are designed to work without setup — install them, point Cowork at a folder, and trigger by saying the skill name or a related phrase. `carousels` is the exception: it needs Node, a headless browser, and an OpenAI API key (its preflight walks you through it).
 
-## The 15
+## The 16
 
 **Run while you sleep (scheduled-task skills):**
 - `morning-briefing` — daily HTML dashboard of calendar, inbox, and news
@@ -23,6 +23,7 @@ These are designed to work without setup — install them, point Cowork at a fol
 - `slide-deck` — generate a polished HTML slide deck from any topic or document
 - `explainer-infographic` — animated, interactive HTML page explaining a concept
 - `dashboard-builder` — interactive KPI dashboard from any CSV, sheet, or folder
+- `carousels` — turn a piece of content into an on-brand LinkedIn + Instagram image carousel (rendered PNGs + PDF + caption)
 
 **Documents:**
 - `contract-review` — flag risks, missing terms, and negotiation points

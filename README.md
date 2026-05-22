@@ -22,7 +22,7 @@ npx skills@latest add TheCraigHewitt/skills --full-depth
 npx skills@latest add TheCraigHewitt/skills/ceo       # 10 CEO skills
 npx skills@latest add TheCraigHewitt/skills/sales      # 21 sales skills
 npx skills@latest add TheCraigHewitt/skills/youtube     # 15 YouTube skills
-npx skills@latest add TheCraigHewitt/skills/cowork      # 15 Claude Cowork skills
+npx skills@latest add TheCraigHewitt/skills/cowork      # 16 Claude Cowork skills
 npx skills@latest add TheCraigHewitt/skills/coding      # RALPH autonomous coding workflow
 npx skills@latest add TheCraigHewitt/skills/general     # General-purpose skills
 ```
